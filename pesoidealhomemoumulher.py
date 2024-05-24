@@ -8,4 +8,4 @@ elif (sexo == "feminino"):
   print (f"seu peso ideal é: {peso_ideal_mulher:.2f}")
 else (sexo !=):
   print ("erro")
-  #teste
+  
