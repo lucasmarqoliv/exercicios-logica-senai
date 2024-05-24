@@ -6,4 +6,6 @@ if (sexo == "masculino"):
 elif (sexo == "feminino"):
   peso_ideal_mulher = (62.1*h)-44.7
   print (f"seu peso ideal é: {peso_ideal_mulher:.2f}")
-
+else (sexo !=):
+  print ("erro")
+  #teste
