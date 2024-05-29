@@ -1,1 +1,1 @@
-exercicios propostos em sala de aula no senai para aprender logica de programação usando python.
+Exercícios desenvolvidos em sala de aula (SENAI) para praticar lógica de programação. (CURSO FULL STACK)
